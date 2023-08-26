@@ -1,7 +1,7 @@
 /*<!---------------------------------------------------------------------- SEND_MAIL ---------------------------------------------------------------------->*/
 
 function mailDefault(){
-  var email = "rnttl90@gmail.com";
+  var email = "poemsdart@gmail.com";
   window.open(`mailto:${email}`);
 }
 
